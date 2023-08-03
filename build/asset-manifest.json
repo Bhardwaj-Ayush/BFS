@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.513eb62f.css",
+    "main.js": "/static/js/main.da773418.js",
+    "static/js/787.6a7650a3.chunk.js": "/static/js/787.6a7650a3.chunk.js",
+    "static/media/img31.png": "/static/media/img31.6a430581e598b2f6d3e2.png",
+    "static/media/img2.png": "/static/media/img2.fcae85bba9b243343316.png",
+    "static/media/img1.png": "/static/media/img1.41420a8bb03a6811ab24.png",
+    "static/media/jobify-logo__1_-removebg-preview.png": "/static/media/jobify-logo__1_-removebg-preview.b77cd0b752e77dc0a13b.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.513eb62f.css.map": "/static/css/main.513eb62f.css.map",
+    "main.da773418.js.map": "/static/js/main.da773418.js.map",
+    "787.6a7650a3.chunk.js.map": "/static/js/787.6a7650a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.513eb62f.css",
+    "static/js/main.da773418.js"
+  ]
+}
